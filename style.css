@@ -1,0 +1,28 @@
+body {
+    height: 95vh;
+    text-align: center;
+}
+
+.coin {
+    height: 250px;
+    width: 250px;
+    margin: auto;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+
+.call {
+    height: 100px;
+}
+
+@media (max-width: 600px) {
+    body {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-content: center;
+    }
+}
