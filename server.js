@@ -48,8 +48,8 @@ const server = http.createServer((req, res) => {
   }
   else if (page == '/api') {
       res.writeHead(200, {'Content-Type': 'application/json'});
-      let coinFlip = Math.floor((Math.random() * 10) % 2);
-      if (coinFlip === 0) {
+      let coinFlip = Math.random();
+      if (coinFlip > 0.4) {
       const objToJson = {
         result : "It's Heads!",
         image : 'assets/quarterHeads.jpg'
