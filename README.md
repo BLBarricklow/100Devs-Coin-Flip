@@ -1,9 +1,9 @@
 # Server side coin flip
 A project about building a raw node.js server and having the coin flip logic run on the server instead of the client.
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:** 
 
-![alt tag]()
+![]()
 
 ## How It's Made:
 
