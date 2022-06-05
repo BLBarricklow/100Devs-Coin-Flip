@@ -3,7 +3,7 @@ A project about building a raw node.js server and having the coin flip logic run
 
 **Link to project:** http://recruiters-love-seeing-live-demos.com/
 
-![alt tag](http://placecorgi.com/1200/650)
+![alt tag]()
 
 ## How It's Made:
 
